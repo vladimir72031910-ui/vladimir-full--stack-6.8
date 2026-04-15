@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.body {
+    font-family: sans-serif;
+    line-height: 1.6;
+}
+
+.hair {
+    max-height: 88px
+}
+.hair__lock {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr 1fr;
+    grid-template-rows: 40px 95.55px 40px 40px;
+}
