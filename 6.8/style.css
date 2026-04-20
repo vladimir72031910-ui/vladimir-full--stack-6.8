@@ -8,6 +8,7 @@
     font-family: sans-serif;
     line-height: 1.6;
     max-width: 320px;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
@@ -45,4 +46,57 @@
 .hair__button {
     border: none;
     background: none;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    
+
+    padding: 10px;
+    background-color: rgb(231, 147, 193);
+    max-width: 320px;
+    height: 400px;
+}
+
+.text__title {
+
+    font-size: 28px;
+    border-left: 4px solid #41F6D7;
+    padding-left: 10px;
+    
+}
+
+.click {
+    display: flex;
+    box-sizing: border-box;
+    overflow-x: auto;
+    max-width: 320px;
+    width: 100%; 
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 20px;
+    
+}
+
+.button {
+
+    display: flex;
+
+    
+
+
+}
+
+.button__select {
+    font-size: 16px;
+    width: 246px;
+    height: 40px;
+    border: 2px solid #7E7E82 ;
+    
+
+}
+
+.button__select--blue {
+    border: 2px solid #B8FFEC ;
 }
