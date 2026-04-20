@@ -7,87 +7,42 @@
 .body {
     font-family: sans-serif;
     line-height: 1.6;
-    max-width: 1400px;
+    max-width: 320px;
 
-    
-   
 }
 
 .hair {
-    background-color: rgb(255, 111, 111);
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around; 
+    align-items: center;
+    background-color: #ffffff;
     width: 320px;
     height: 88px;
-    
-
-}
-
-.infa {
-    background-color: rgb(255, 168, 185);
-    height: 500px;
-}
-
-.brand {
-    background-color: rgb(233, 141, 76);
-    height: 200px;
-}
-
-.types {
-    background-color: rgb(248, 162, 244);
-    height: 300px;
-}
-
-.price {
-    background-color: rgb(252, 255, 78);
-    height: 510px;
-}
-
-.shoes {
-    background-color: rgb(34, 255, 108);
-    height: 130px;
-}
-
-.papa {
-    display: grid;
-    max-width: 320px;
-    height: 1722px;
-    top: 88px;
-    padding: 10px 0px 0px 0px;
-    
-    
-}
-
-.top {
-    display: grid;
-    grid-template-columns: 1fr 2fr 1fr 1fr;
-    grid-template-rows: 40px 80px 40px 40px;
-    gap: 15px;
-    padding: 20px;
-    
-
-}
-
-.top__nav {
-    border-radius: 50%;
-}
-
-.port {
-    display: grid;
-    max-width: 320px;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    
-    gap: 15px;
-    padding: 20px;
-    
-}
-
-.port__go {
-    display: flex;
-    background-color: deeppink;
-    justify-content: center;
-    text-align: center;
     padding: 10px;
 
-    width: 233px;
-    height: 40px;
+
 }
 
+.burger {
+    display: flex;
+    gap: 15px;
+    
+    
+}
+
+.search {
+    display: flex;
+    gap: 15px;
+}
+
+.line {
+    background-color: #EAEAEA ;
+    width: 2px;
+    height: 32px;
+}
+
+.hair__button {
+    border: none;
+    background: none;
+}
