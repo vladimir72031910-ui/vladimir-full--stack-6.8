@@ -153,3 +153,13 @@
     width: 320px;
     height: 176px;
 }
+
+.hair__none {
+    display: none;
+}
+
+@media (min-width:321px) and 
+(max-width: 769px) {
+    
+}
+
