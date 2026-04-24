@@ -1,6 +1,6 @@
-[CPS center.html](https://github.com/user-attachments/files/26966806/CPS.center.html)
+[CPS center.html](https://github.com/user-attachments/files/27048225/CPS.center.html)
 <!DOCTYPE html>
-<!-- saved from url=(0036)http://127.0.0.1:5500/6.8/index.html -->
+<!-- saved from url=(0036)http://127.0.0.1:5501/6.8/index.html -->
 <html lang="ru"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -244,7 +244,7 @@
               <span>Читать далее</span>
 
          </div>
-          </span>
+        </span>
 
          
 
@@ -311,5 +311,7 @@
 	}
 	// ]]>
 </script>
+
+
 
 </body></html>
